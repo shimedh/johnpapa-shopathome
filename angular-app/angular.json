@@ -65,10 +65,10 @@
           }
         },
         "root": "",
+        "sourceRoot": "src",
+        "prefix": "",
         "angular-app": {
-          "sourceRoot": "src",
           "projectType": "application",
-          "prefix": "app",
           "schematics": {
             "@schematics/angular:component": {
               "style": "scss"
